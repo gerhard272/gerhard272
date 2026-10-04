@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **student developer** who enjoys building full-stack applications.
+I'm a **student developer** who enjoys building full-stack applications, currently moving into **data analysis and machine learning**.
 
 ## 🛠️ Tech Stack
 
@@ -8,17 +8,26 @@ I'm a **student developer** who enjoys building full-stack applications.
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![DevOps](https://img.shields.io/badge/DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
 - **Backend:** .NET, Java
 - **Frontend:** Angular
-- **Database:** SQL
+- **Database:** SQL, PL/SQL
+- **Data analysis:** Python, pandas, matplotlib, seaborn, Jupyter
 - **Cloud & DevOps:** Azure, CI/CD pipelines
 
 ## 🔭 Currently Working On
 
-- **[Health Trace](https://github.com/gerhard272/health-trace)**: a project I'm actively developing. Check out the repo for details!
+- **[Consumi Elettrici](https://github.com/gerhard272/consumi-elettrici)**: analysis and forecasting of Italy's hourly electricity demand, using six years of public data from Terna. The exploratory analysis is complete; next come feature engineering and forecasting models.
+
+## 🌱 Currently Learning
+
+- Machine learning for time series (scikit-learn, LightGBM)
+- NoSQL databases
 
 ## 📫 Let's Connect
 
