@@ -20,13 +20,8 @@ I'm a **student developer** who enjoys building full-stack applications, current
 - **Data analysis:** Python, pandas, matplotlib, seaborn, Jupyter
 - **Cloud & DevOps:** Azure, CI/CD pipelines
 
-## 🔭 Currently Working On
-
-- **[Consumi Elettrici](https://github.com/gerhard272/consumi-elettrici)**: analysis and forecasting of Italy's hourly electricity demand, using six years of public data from Terna. The exploratory analysis is complete; next come feature engineering and forecasting models.
-
 ## 🌱 Currently Learning
 
-- Machine learning for time series (scikit-learn, LightGBM)
 - NoSQL databases
 
 ## 📫 Let's Connect
