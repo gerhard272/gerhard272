@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **student developer** who enjoys building full-stack applications, currently moving into **data analysis and machine learning**.
+I'm a **student developer** who enjoys building full-stack applications**.
 
 ## 🛠️ Tech Stack
 
