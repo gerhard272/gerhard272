@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a **student developer** who enjoys building full-stack applications**.
+I'm a **student developer** who enjoys building full-stack applications.
 
 ## 🛠️ Tech Stack
 
